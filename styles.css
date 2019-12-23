@@ -59,6 +59,7 @@ label {
   border: 1px solid #333;
   height: 2rem;
   width: 350px;
+  font-size: 1.25rem;
 
   display: flex;
   align-items: center;
@@ -75,6 +76,7 @@ label {
   color: white;
   padding: 0.5rem 1rem;
   font-weight: bold;
+  font-size: 1.25rem;
   cursor: pointer;
   border-radius: 1rem;
 }
